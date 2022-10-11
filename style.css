@@ -542,7 +542,7 @@ body {
     background-color : #F3976C;
     }
     .tc-white {
-    color : #F3976C !important ;
+    color : #FFFFFF !important ;
     }
     .btn-atomic-tangerine {
     background : #F3976C;
@@ -598,12 +598,12 @@ body {
     max-width : 100%;
     }
     }
-    @media only screen and (device-width) and (device-width) and (orientation: landscape) {
+    @media only screen and (width) and (width) and (orientation: landscape) {
     .b-parallax {
     background-attachment : scroll;
     }
     }
-    @media only screen and (device-width) and (device-width) {
+    @media only screen and (width) and (width) {
     .b-parallax {
     background-attachment : scroll;
     }
